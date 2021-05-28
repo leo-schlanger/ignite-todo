@@ -1,0 +1,15 @@
+export default {
+  containerBg: "#191622",
+  headerBg: "#483C67",
+  headerColor: "#E1E1E6",
+  inputBackgroundColor: "#34313D",
+  inputTextColor: "#A09CB1",
+  inputButton: "#988BC7",
+  flatListHeaderColor: "#3D3D4D",
+  taskButtonDone: "#273FAD",
+  taskButton: "",
+  taskMarkerDone: "#3D3D4D",
+  taskMarker: "#3D3D4D",
+  taskTextDone: "#3D3D4D",
+  taskText: "#3D3D4D",
+};
